@@ -1,6 +1,7 @@
 <!-- Banner dengan gambar teknologi -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/images/folderIcons/dev.svg" width="100" alt="Developer Icon"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+Icon"/>
 </p>
 
 <h1 align="center">👋 Halo, Saya Bangse</h1>
