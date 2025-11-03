@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Halo, Saya Bangse
 
-<!--
-**BangSesa/BangSesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya saat ini sedang menempuh pendidikan di **Institut Teknologi Bisnis AAS Indonesia**,  
+program studi **S1 Informatika**.
 
-Here are some ideas to get you started:
+💻 Saya memiliki minat di bidang teknologi informasi, pengembangan web, dan pemrograman.  
+Saya terus belajar dan mengembangkan keterampilan untuk menjadi pengembang yang lebih baik.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏡 Tentang Saya
+
+- 🎓 Mahasiswa S1 Informatika  
+- 🏫 Institut Teknologi Bisnis AAS Indonesia  
+- 📍 Sragen, Jawa Tengah, Indonesia  
+- 💬 Tertarik pada: Web Development, Database, dan Sistem Informasi  
+
+---
+
+## 📫 Kontak
+
+Jika ingin terhubung atau berkolaborasi, silakan hubungi saya melalui:
+
+- ✉️ Email: bangsesajr@gmail.com  
+- 💼 LinkedIn: Karnsa Lambang Sesami
+- 🐙 No. Hp: 081334974212
+
+---
+
+> 🌱 *"Belajar adalah proses tanpa akhir — setiap baris kode adalah langkah maju menuju masa depan."*
