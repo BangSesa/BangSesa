@@ -49,8 +49,4 @@ Terus belajar dan bereksperimen dengan berbagai bahasa dan teknologi agar bisa m
 
 ## 🖼️ Gaya Hidup IT
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
-</p>
-
 > 🌱 *"Belajar adalah proses tanpa akhir — setiap baris kode adalah langkah maju menuju masa depan."*
