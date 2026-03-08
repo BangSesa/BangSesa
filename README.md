@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/BangSesa/BangSesa/issues/1#issue-4041548537" width="100%" alt="Banner Bangse" />
+  <img src="https://github.com/user-attachments/assets/6949f932-a2d1-4b7e-9d40-7c53398b34a0" width="100%" alt="Banner Bangse" />
 </p>
 
 <h1 align="center">👋 Halo, Saya Bangse</h1>
