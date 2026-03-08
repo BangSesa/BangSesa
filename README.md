@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img src="https://image.api.playgroundai.com/g_m_4b407b9a2c3d4f8e9c2b4d4f8e9c2b4d/image_7.png" width="100%">
 Icon"/>
 </p>
 
@@ -32,10 +32,12 @@ Terus belajar dan bereksperimen dengan berbagai bahasa dan teknologi agar bisa m
 
 ## ⚙️ Minat Utama
 
-- 🌐 Pengembangan Perangkat Lunak (Frontend & Backend)
-- 🗃️ Manajemen Database
-- ⚙️ Sistem Informasi
-- 🤖 Logika Pemrograman & Otomasi
+- 📱 Pengembangan Aplikasi Seluler
+- 💻 Pengembangan Software
+- 🎨 Desain Web
+- 🌐 Pengembangan Web
+- 🖥️ Front-End Development
+- 🔙 Back-End Web Development
 
 ---
 
