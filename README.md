@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://image.api.playgroundai.com/g_m_4b407b9a2c3d4f8e9c2b4d4f8e9c2b4d/image_7.png" width="100%">
-Icon"/>
+  <img src="https://user-images.githubusercontent.com/12345678/banner.png" width="100%" alt="Banner Bangse" />
 </p>
 
 <h1 align="center">👋 Halo, Saya Bangse</h1>
