@@ -1,4 +1,3 @@
-<!-- Banner dengan gambar teknologi -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 Icon"/>
@@ -18,7 +17,7 @@ Icon"/>
 Saya saat ini sedang menempuh pendidikan di **Institut Teknologi Bisnis AAS Indonesia**,  
 program studi **S1 Informatika**.  
 
-Saya memiliki minat besar di bidang teknologi informasi, pengembangan web, dan pemrograman.  
+Saya memiliki minat besar di bidang teknologi informasi, pengembangan perangkat lunak, dan pemrograman.  
 Terus belajar dan bereksperimen dengan berbagai bahasa dan teknologi agar bisa menjadi pengembang yang handal.
 
 ---
@@ -26,15 +25,15 @@ Terus belajar dan bereksperimen dengan berbagai bahasa dan teknologi agar bisa m
 ## 🧠 Bahasa & Teknologi yang Saya Gunakan
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,java,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,java,git,github,vscode,windows" />
 </p>
 
 ---
 
 ## ⚙️ Minat Utama
 
-- 🌐 Web Development (Frontend & Backend)
-- 🗃️ Database Management
+- 🌐 Pengembangan Perangkat Lunak (Frontend & Backend)
+- 🗃️ Manajemen Database
 - ⚙️ Sistem Informasi
 - 🤖 Logika Pemrograman & Otomasi
 
